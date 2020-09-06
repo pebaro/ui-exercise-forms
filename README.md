@@ -1,3 +1,6 @@
+-- RM -- testing connection to GitHub with test change to README.md (for testing purposes only - please delete at the end)
+
+
 # Form UI Exercise
 
 This repo contains an exercise focused to evaluate a breadth of skills, both technical and non technical. There are no wrong answers or questions so feel free to express yourself.
